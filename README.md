@@ -12,7 +12,7 @@ Controls:
 
 - Arrow keys: move the snake
 
-Eat as much food as possible to increase your score. The game ends if you hit the walls or collide with your own body.
+Eat as much food as possible to increase your "score". The game ends if you hit the walls or collide with your own body.
 
 ## Features
 
